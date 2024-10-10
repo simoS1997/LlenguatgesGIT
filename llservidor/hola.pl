@@ -3,4 +3,4 @@ use strict;
 use warnings;
 
 print "Content-type: text/html\n\n";
-print "Hola, Ramis!\n";
+print "Hola, Menorca!\n";

@@ -5,7 +5,7 @@
     <title>Hola JSP</title>
 </head>
 <body>
-    <%= "Hola, Ramis!" %>
+    <%= "Hola, Menorca!" %>
 </body>
 </html>
 
